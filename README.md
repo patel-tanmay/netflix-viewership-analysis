@@ -1,7 +1,7 @@
 # 🎬 Netflix Viewership Analysis Dashboard
 
 ## 📌 Overview
-This Power BI dashboard explores and visualizes global viewership trends on Netflix. It provides actionable insights into top-performing countries, content genres, and release patterns, enabling strategic decisions for content creation and regional investments.
+This Power BI dashboard explores and visualizes global viewership trends on Netflix. It provides actionable insights into top-performing content genres, and release patterns, enabling strategic decisions for content creation and regional investments.
 
 ## 🔍 Key Insights
 - Genre Analysis: Breaks down popularity by content type and genre (Drama, Action, Comedy, etc.)

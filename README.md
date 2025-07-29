@@ -35,7 +35,8 @@ This Power BI dashboard explores and visualizes global viewership trends on Netf
 
 ## 📸 Dashboard Previews
 
-![Dashboard Overview](images/dashboard-overview.png)
+![Dashboard Overview](images/Dashboard.png)
+
 
 ---
 
